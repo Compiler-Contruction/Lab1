@@ -41,6 +41,7 @@ Output:
 
 > boy
 
+
 > Number of words: 5
 
 > Number of spaces: 4
