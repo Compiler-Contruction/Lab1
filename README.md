@@ -30,6 +30,7 @@ For example:
 > He is a smart boy
 
 Output:
+
 > He
 
 > is
@@ -41,8 +42,11 @@ Output:
 > boy
 
 > Number of words: 5
+
 > Number of spaces: 4
+
 > Number of vowels: 5
+
 > Number of consonants: 8
 
 The resultant lexer reads the input text and tokenizes it into words and spaces. It then counts the number of words, spaces, vowels and consonants. It then prints out the results at the end of the analysis.
